@@ -1,0 +1,6 @@
+{
+  "name": "Vox Business Vault - Gujarat Local Services Directory",
+  "description": "Find and connect with trusted local service vendors across Gujarat. Direct calling, WhatsApp, verified businesses, instant QR codes, and secure service bookings.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
